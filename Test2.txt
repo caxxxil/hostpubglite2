@@ -1,0 +1,443 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+
+m    m  mmmm
+    #    # m"  "m
+ #mmmm# #    #
+   #    # #    #
+
+##Host By LegendFury25##
+
+proxy 80.80
+0.0.0.0 .cn
+""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .FurY.com
+""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .org
+""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .com
+""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .net
+""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .me
+""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .cn
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .qq.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .google.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .cn
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .akamaized.net
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .cnzz.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .net
+""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .proximabeta.com
+0.0.0.0 .qq.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .akamaized.net
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    # 
+0.0.0.0 .pubgmobile.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .tencent.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .umeng.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .helpshift.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .fbsbx.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .userapi.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .qcloud.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .graph.facebook.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .wshareit.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .scgt.reverse.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .adjust.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .tplay.qq
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .astat.bugly.qcloud.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .qqgames.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .twimg.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .igamecj.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .kuyoo.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .intellitxt.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .google-analytics.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .pay.igamecj.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .hkspeed.igamecj.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .weiyun.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .actencent.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .gclouds.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .gstatic.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .googlevideocom
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .googleapis.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .googlesyndication.com
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.1 mx.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+180.163.26.39 http.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+240e:e1:a900:10::54 http.qq.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.1 mx0.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+14.17.32.217 ads.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.254.103 id.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+58.251.110.111 mx1.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+58.250.137.42 test.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+240d:c040:1:40::133 mx1.qq.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.1 info.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 test1.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.254.157 news.qq.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+2402:4e00:8010::9e news.qq.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.1 alpha.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 ns.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+14.18.180.36 ap.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 ipv6.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 apache.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 testing.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+101.89.19.165 ns1.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+157.255.246.101 ns1.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+183.3.226.207 ns1.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.235.38 app.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.235.63 app.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+119.29.29.229 dns.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+121.51.160.100 ns2.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+123.151.66.78 ns2.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.177.41 ns2.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 vm.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.219.228 apps.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+112.60.1.69 ns3.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+183.192.201.116 ns3.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+10.237.156.13 linux.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+163.177.90.84 local.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 download.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+101.227.160.36 log.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 auth.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 ops.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.219.231 en.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.219.95 mail.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.235.161 mail.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 web.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 backup.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 oracle.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 beta.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 whois.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+180.163.26.39 blog.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.235.38 eshop.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.235.63 eshop.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+240e:e1:a900:10::54 blog.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 wiki.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 cdn.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+59.151.129.125 www.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 chat.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+2405:200:1630:18b0::180c www.qq.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+2405:200:1630:18b4::180c www.qq.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+203.205.137.232 f5.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.137.242 f5.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.137.29 f5.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 cms.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 server.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 corp.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+150.109.206.38 shop.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+150.109.207.111 shop.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.137.113 shop.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.137.226 shop.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.219.54 mobile.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+14.17.57.241 smtp.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+14.18.245.164 monitor.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 demo.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 gw.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.232.188 mta.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.205.254.103 ssl.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+14.18.180.36 help.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.1 home.qq.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+42.120.219.135 mx.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+121.40.237.87 stats.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+110.75.162.225 ns1.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.209.254.28 ns2.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+106.11.248.2 app.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+106.11.61.141 app.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+140.205.248.8 app.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+140.205.61.87 app.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+106.11.248.2 download.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+106.11.61.141 download.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+140.205.248.8 download.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+140.205.61.87 www.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+106.11.248.2 www.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+106.11.61.141 www.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+140.205.248.8 www.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+140.205.61.87 s3.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+101.89.124.234 help.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+203.119.169.84 smtp.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+140.205.121 207 mta.cnzz.com
+""#loop" #m#    #mmm#"  #  #   #  #    #
+110.75.0.74 mta.cnzz.com
+ #    " #   "m #      #    #   ##   mm#mm
+ 
+ m    m  mmmm
+    #    # m"  "m
+ #mmmm# #    #
+   #    # #    #
+
+##Host By LegendFury25##
+ 
+0.0.0.1 mx.qq.com
+180.163.26.39 http.qq.com
+240e:e1:a900:10::54 http.qq.com
+0.0.0.1 mx0.qq.com
+14.17.32.217 ads.qq.com
+203.205.254.103 id.qq.com
+58.251.110.111 mx1.qq.com
+58.250.137.42 test.qq.com
+240d:c040:1:40::133 mx1.qq.com
+0.0.0.1 info.qq.com
+0.0.0.1 test1.qq.com
+203.205.254.157 news.qq.com
+2402:4e00:8010::9e news.qq.com
+0.0.0.1 alpha.qq.com
+0.0.0.1 ns.qq.com
+14.18.180.36 ap.qq.com
+0.0.0.1 ipv6.qq.com
+0.0.0.1 apache.qq.com
+0.0.0.1 testing.qq.com
+101.89.19.165 ns1.qq.com
+157.255.246.101 ns1.qq.com
+183.3.226.207 ns1.qq.com
+203.205.235.38 app.qq.com
+203.205.235.63 app.qq.com
+119.29.29.229 dns.qq.com
+121.51.160.100 ns2.qq.com
+123.151.66.78 ns2.qq.com
+203.205.177.41 ns2.qq.com
+0.0.0.1 vm.qq.com
+203.205.219.228 apps.qq.com
+112.60.1.69 ns3.qq.com
+183.192.201.116 ns3.qq.com
+10.237.156.13 linux.qq.com
+163.177.90.84 local.qq.com
+0.0.0.1 download.qq.com
+101.227.160.36 log.qq.com
+0.0.0.1 auth.qq.com
+0.0.0.1 ops.qq.com
+203.205.219.231 en.qq.com
+203.205.219.95 mail.qq.com
+203.205.235.161 mail.qq.com
+0.0.0.1 web.qq.com
+0.0.0.1 backup.qq.com
+0.0.0.1 oracle.qq.com
+0.0.0.1 beta.qq.com
+0.0.0.1 whois.qq.com
+180.163.26.39 blog.qq.com
+203.205.235.38 eshop.qq.com
+203.205.235.63 eshop.qq.com
+240e:e1:a900:10::54 blog.qq.com
+0.0.0.1 wiki.qq.com
+0.0.0.1 cdn.qq.com
+59.151.129.125 www.qq.com
+0.0.0.1 chat.qq.com
+2405:200:1630:18b0::180c www.qq.com
+2405:200:1630:18b4::180c www.qq.com
+203.205.137.232 f5.qq.com
+203.205.137.242 f5.qq.com
+203.205.137.29 f5.qq.com
+0.0.0.1 cms.qq.com
+0.0.0.1 server.qq.com
+0.0.0.1 corp.qq.com
+150.109.206.38 shop.qq.com
+150.109.207.111 shop.qq.com
+203.205.137.113 shop.qq.com
+203.205.137.226 shop.qq.com
+203.205.219.54 mobile.qq.com
+14.17.57.241 smtp.qq.com
+14.18.245.164 monitor.qq.com
+0.0.0.1 demo.qq.com
+0.0.0.1 gw.qq.com
+203.205.232.188 mta.qq.com
+203.205.254.103 ssl.qq.com
+14.18.180.36 help.qq.com
+0.0.0.1 home.qq.com
+42.120.219.135 mx.cnzz.com
+121.40.237.87 stats.cnzz.com
+110.75.162.225 ns1.cnzz.com
+203.209.254.28 ns2.cnzz.com
+106.11.248.2 app.cnzz.com
+106.11.61.141 app.cnzz.com
+140.205.248.8 app.cnzz.com
+140.205.61.87 app.cnzz.com
+106.11.248.2 download.cnzz.com
+106.11.61.141 download.cnzz.com
+140.205.248.8 download.cnzz.com
+140.205.61.87 www.cnzz.com
+106.11.248.2 www.cnzz.com
+106.11.61.141 www.cnzz.com
+140.205.248.8 www.cnzz.com
+140.205.61.87 s3.cnzz.com
+101.89.124.234 help.cnzz.com
+203.119.169.84 smtp.cnzz.com
+140.205.121 207 mta.cnzz.com
+110.75.0.74 mta.cnzz.com
+
+m    m  mmmm
+    #    # m"  "m
+ #mmmm# #    #
+   #    # #    #
